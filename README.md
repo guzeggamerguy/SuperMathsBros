@@ -1,4 +1,4 @@
-# SuperMathsBros
+# Super Maths Bros
 
 ## About
 An educational game thats actually fun. Inspired by Super Smash Bros.
