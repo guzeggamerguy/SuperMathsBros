@@ -3,7 +3,7 @@
 ## About
 An educational game thats actually fun. Inspired by Super Smash Bros.
 
-currently in closed alpha
+currently in semi-closed alpha
 
 ## Web Version:
 
