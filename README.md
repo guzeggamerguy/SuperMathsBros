@@ -1,22 +1,24 @@
-# Super Maths Bros
+# Super Maths Bros (ALPHA)
 
 ## About
-An educational game thats actually fun. Inspired by Super Smash Bros.
+An educational game thats designed to actually be fun.
 
-currently in semi-closed alpha
+Inspired by Super Smash Bros.
+
+currently in semi-open alpha
 
 ## Web Version:
 
-Link to github pages version (latest update):
+Link to web version (latest update):
 
-[LINK NOT AVAILIBLE]
+___https://guzeggamerguy.github.io/SuperMathsBros/___
 
 ## Credits
 by GUZEGGAMERGUY 
 
 Made Using Scratch (Turbowarp)
 
-v0.0.0 build 00000000 (00/00/0000)
+v0.1.1 build 28032025 (28/03/2025)
 
 ## Notices
 
@@ -25,3 +27,5 @@ v0.0.0 build 00000000 (00/00/0000)
 Microzeg Studios, and is only by
 
 GUZEGGAMERGUY.
+
+2: this is in alpha. expect bugs
